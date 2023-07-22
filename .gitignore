@@ -11,6 +11,9 @@
 /[Uu]ser[Ss]ettings/
 /[Mm]emoryCaptures/
 
+# Game launcher games
+/[Gg]ames/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
